@@ -1,12 +1,14 @@
-# Dynamics CRM Entity Security role
+# Dynamics CRM Entity Manage Solution
 Xrmtoolbox has made Dynamics CRM developer life easy.
 I have created a plugin for Xrmtoolbox user.
 With the help of this plugin:-
 
-1. Download list of all security role.
-2. Show list of all users and team for selected security role based on selected business unit.
-3. Show list of all security role based on selected entity.
-4. Export result in Excel.
+1. Retrieve Solutions
+2. Make a Copy of Solution
+3. Delete Solution
+4. Export Solution to folder 
+5. Export Solution list to excel 
+6. Publish All Customization.
 
 
  
